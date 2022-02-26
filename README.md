@@ -1,4 +1,4 @@
-# 3
+# vv3ts-template-CB
 
 This template should help get you started developing with Vue 3 in Vite. It uses TypeScript, Composition API, Bootstrap and Font Awesome.
 
