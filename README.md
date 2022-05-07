@@ -6,6 +6,8 @@ Usage:
 ```
 npx degit robert-baumgartner/vv3ts-template-CB your-project
 ```
+07.05.2022: Fixed ESLint top level await warning,
+            Installed types for Node
 
 ## Recommended IDE Setup
 
